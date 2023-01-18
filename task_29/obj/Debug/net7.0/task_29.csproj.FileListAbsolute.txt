@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\bin\Debug\net7.0\task_29.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\bin\Debug\net7.0\task_29.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\bin\Debug\net7.0\task_29.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\bin\Debug\net7.0\task_29.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\bin\Debug\net7.0\task_29.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\refint\task_29.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\task_29.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_29\obj\Debug\net7.0\ref\task_29.dll
