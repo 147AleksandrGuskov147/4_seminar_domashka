@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\bin\Debug\net7.0\task_27_.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\bin\Debug\net7.0\task_27_.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\bin\Debug\net7.0\task_27_.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\bin\Debug\net7.0\task_27_.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\bin\Debug\net7.0\task_27_.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\refint\task_27_.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\task_27_.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\4_seminar_domashka\4_semi_4ernovik\task_27_\obj\Debug\net7.0\ref\task_27_.dll
